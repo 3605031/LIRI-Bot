@@ -1,0 +1,175 @@
+
+2017/06/23-------17:29:25
+>>node my-tweets
+On: Fri Jun 23 22:44:05 +0000 2017
+You tweeted: 'tweeted from txt file'
+
+On: Fri Jun 23 22:42:38 +0000 2017
+You tweeted: postTweet function test
+
+On: Fri Jun 23 19:52:51 +0000 2017
+You tweeted: fillter tweet 15
+
+On: Fri Jun 23 19:52:48 +0000 2017
+You tweeted: fillter tweet 14
+
+On: Fri Jun 23 19:52:45 +0000 2017
+You tweeted: fillter tweet 13
+
+On: Fri Jun 23 19:52:42 +0000 2017
+You tweeted: fillter tweet 12
+
+On: Fri Jun 23 19:52:40 +0000 2017
+You tweeted: fillter tweet 11
+
+On: Fri Jun 23 19:52:37 +0000 2017
+You tweeted: fillter tweet 10
+
+On: Fri Jun 23 19:52:33 +0000 2017
+You tweeted: fillter tweet 9
+
+On: Fri Jun 23 19:52:30 +0000 2017
+You tweeted: fillter tweet 8
+
+On: Fri Jun 23 19:52:26 +0000 2017
+You tweeted: fillter tweet 7
+
+On: Fri Jun 23 19:52:23 +0000 2017
+You tweeted: fillter tweet 6
+
+On: Fri Jun 23 19:52:19 +0000 2017
+You tweeted: fillter tweet 5
+
+On: Fri Jun 23 19:52:14 +0000 2017
+You tweeted: fillter tweet 4
+
+On: Fri Jun 23 19:52:11 +0000 2017
+You tweeted: fillter tweet 3
+
+On: Fri Jun 23 19:52:07 +0000 2017
+You tweeted: fillter tweet 2
+
+On: Fri Jun 23 19:51:50 +0000 2017
+You tweeted: filler tweet 1
+
+On: Fri Jun 23 18:25:03 +0000 2017
+You tweeted: i love bananas
+
+On: Fri Jun 23 18:22:30 +0000 2017
+You tweeted: hi
+
+On: Fri Jun 23 18:20:10 +0000 2017
+You tweeted: hello everyone
+
+
+2017/06/23-------17:29:31
+>>node my-tweets
+On: Fri Jun 23 22:44:05 +0000 2017
+You tweeted: 'tweeted from txt file'
+
+On: Fri Jun 23 22:42:38 +0000 2017
+You tweeted: postTweet function test
+
+On: Fri Jun 23 19:52:51 +0000 2017
+You tweeted: fillter tweet 15
+
+On: Fri Jun 23 19:52:48 +0000 2017
+You tweeted: fillter tweet 14
+
+On: Fri Jun 23 19:52:45 +0000 2017
+You tweeted: fillter tweet 13
+
+On: Fri Jun 23 19:52:42 +0000 2017
+You tweeted: fillter tweet 12
+
+On: Fri Jun 23 19:52:40 +0000 2017
+You tweeted: fillter tweet 11
+
+On: Fri Jun 23 19:52:37 +0000 2017
+You tweeted: fillter tweet 10
+
+On: Fri Jun 23 19:52:33 +0000 2017
+You tweeted: fillter tweet 9
+
+On: Fri Jun 23 19:52:30 +0000 2017
+You tweeted: fillter tweet 8
+
+On: Fri Jun 23 19:52:26 +0000 2017
+You tweeted: fillter tweet 7
+
+On: Fri Jun 23 19:52:23 +0000 2017
+You tweeted: fillter tweet 6
+
+On: Fri Jun 23 19:52:19 +0000 2017
+You tweeted: fillter tweet 5
+
+On: Fri Jun 23 19:52:14 +0000 2017
+You tweeted: fillter tweet 4
+
+On: Fri Jun 23 19:52:11 +0000 2017
+You tweeted: fillter tweet 3
+
+On: Fri Jun 23 19:52:07 +0000 2017
+You tweeted: fillter tweet 2
+
+On: Fri Jun 23 19:51:50 +0000 2017
+You tweeted: filler tweet 1
+
+On: Fri Jun 23 18:25:03 +0000 2017
+You tweeted: i love bananas
+
+On: Fri Jun 23 18:22:30 +0000 2017
+You tweeted: hi
+
+On: Fri Jun 23 18:20:10 +0000 2017
+You tweeted: hello everyone
+
+
+
+2017/06/23-------17:35:47
+>>node spotify-this-song 
+Artist: Ace of Base
+Song: The Sign
+Spotify URL: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album: The Sign (US Album) [Remastered]
+
+2017/06/23-------17:36:45
+>>node spotify-this-song blank space
+Artist: Taylor Swift
+Song: Blank Space
+Spotify URL: https://open.spotify.com/track/1p80LdxRV74UKvL8gnD7ky
+Album: 1989
+
+
+2017/06/23-------17:44:20
+>>node movie-this 
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Made in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Website: http://www.magpictures.com/mrnobody/
+
+2017/06/23-------17:44:33
+>>node movie-this 
+Title: Mr. Nobody
+Year: 2009
+IMDB Rating: 7.9
+Made in: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Website: http://www.magpictures.com/mrnobody/
+
+2017/06/23-------17:44:39
+>>node movie-this game of thrones
+Title: Game of Thrones
+Year: 2011–
+IMDB Rating: 9.5
+Made in: USA, UK
+Language: English
+Plot: Nine noble families fight for control over the mythical lands of Westeros, while a forgotten race returns after being dormant for thousands of years.
+Actors: Peter Dinklage, Lena Headey, Emilia Clarke, Kit Harington
+Website: undefined

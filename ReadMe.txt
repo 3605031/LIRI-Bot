@@ -1,0 +1,2 @@
+node command 2nd parameter are to be used with brackets i.e node movie-this 'game of thrones'
+random.txt 2nd parameter are to be used without brackets and seperated by a comma i.e spotify-this-song,blank space
